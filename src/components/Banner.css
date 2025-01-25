@@ -1,0 +1,30 @@
+.banner {
+    background-color: #31419e;
+    color: white;
+    text-align: center;
+    padding: 50px 0;
+    border-radius: 10px;
+  }
+
+  .banner {
+    background-image: url('/img/banner.jpg');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    text-align: center;
+    padding: 80px 20px;
+  }
+  
+  .banner-heading {
+    font-size: 3rem;
+  }
+  
+  .banner-subheading {
+    font-size: 1.5rem;
+    margin-top: 10px;
+  }
+  
+  .banner h2{
+    color: white;
+  }
+  
